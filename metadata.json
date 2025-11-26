@@ -1,0 +1,5 @@
+{
+  "name": "AeroSpeed Calculator",
+  "description": "A professional aviation approach speed calculator featuring real-time METAR/TAF weather parsing, dynamic weight interpolation, and maneuvering speed (DMMS) calculations.",
+  "requestFramePermissions": []
+}
